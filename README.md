@@ -47,30 +47,38 @@ I enjoy building projects that combine **innovation with practicality**.
 
 <div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 
-  <p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=20" 
-    width="49%" 
-    height="200px" 
-    alt="GitHub Stats" 
-    style="vertical-align:top;" 
-  />
+  <div style="display:flex; justify-content:center; gap:1%;">
+    <!-- GitHub Stats -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=20" 
+      width="49%" 
+      height="200px" 
+      alt="GitHub Stats" 
+      style="vertical-align:top;" 
+    />
+    <!-- Top Languages -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical&border_radius=20&card_width=450" 
+      width="49%" 
+      height="200px" 
+      alt="Top Languages" 
+      style="vertical-align:top;" 
+    />
+  </div>
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical&border_radius=20&card_width=450" 
-    width="49%" 
-    height="200px" 
-    alt="Top Languages" 
-    style="vertical-align:top;" 
-  />
-  </p>
-
-  <p>
-    <!-- 下排：Streak + 动态贡献蛇 -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HxCodeWarrior&theme=radical&hide_border=false&border_radius=20" width="48%" alt="GitHub Streak" style="margin-right:1%;" />
-    <img src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.svg" width="48%" alt="GitHub Contribution Snake" />
+  <div style="display:flex; justify-content:center; gap:1%; margin-top:15px;">
+    <!-- Streak -->
+    <img 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=HxCodeWarrior&theme=radical&hide_border=false&border_radius=20" 
+     width="48%" 
+     alt="GitHub Streak" 
+    />
+    <!-- 动态贡献蛇 -->
+    <img 
+     src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.gif" 
+     width="48%" 
+     alt="GitHub Contribution Snake" 
+    />
   </p>
 
   <!-- 彩色 Badge -->
@@ -78,8 +86,7 @@ I enjoy building projects that combine **innovation with practicality**.
     <img src="https://img.shields.io/github/followers/HxCodeWarrior?style=for-the-badge&logo=github&color=1abc9c&logoColor=white" />
     <img src="https://img.shields.io/github/stars/HxCodeWarrior?style=for-the-badge&logo=github&color=f39c12&logoColor=white" />
     <img src="https://img.shields.io/github/commit-activity/t/HxCodeWarrior/HxCodeWarrior?style=for-the-badge&logo=github&color=e74c3c&logoColor=white" />
-</p>
-
+ </p>
 
 </div>
 
@@ -128,13 +135,6 @@ I enjoy building projects that combine **innovation with practicality**.
 ## 🔗 Connect with Me
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-HQ%20X-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
 [![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-handle)   -->
-[![Email](https://img.shields.io/badge/Email-contact-orange?style=flat&logo=gmail)](mailto:bytewyrm@163.com)
-[![BiliBili](https://img.shields.io/badge/BiliBili-BiliBili-blue?style=flat&logo=BiliBili)](https://space.bilibili.com/3537114050332802)
+[![Email](https://img.shields.io/badge/Email-contact-orange?style=flat&logo=gmail)](mailto:bytewyrm@163.com) **Email: bytewyrm@163.com**
+[![BiliBili](https://img.shields.io/badge/BiliBili-BiliBili-blue?style=flat&logo=BiliBili)](https://space.bilibili.com/3537114050332802) **BiliBili: 鹤-菡ZQ/3537114050332802**
 
----
-
-## ✨ Fun Dynamic Element
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" width="90%" />
-</p>
