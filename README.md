@@ -29,7 +29,7 @@ I enjoy building projects that combine **innovation with practicality**.
   <!-- 上排：GitHub Stats + Top Languages -->
   <div style="display:flex; justify-content:center; gap:1%; margin-bottom:15px;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=20" 
+      src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
       width="400px" 
       height="200px" 
       alt="GitHub Stats" 
@@ -38,7 +38,7 @@ I enjoy building projects that combine **innovation with practicality**.
       onmouseout="this.style.transform='scale(1)';"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical&border_radius=20&card_width=450" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical" 
       width="400px" 
       height="200px" 
       alt="Top Languages" 
@@ -82,52 +82,6 @@ I enjoy building projects that combine **innovation with practicality**.
 ## 📈 GitHub Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HxCodeWarrior&theme=github-dark&area=true&hide_border=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🛠 Skills & Tools
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🖥 Operating Systems
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)
-![OpenCloudOS](https://img.shields.io/badge/-OpenCloudOS-00AEEF?style=flat&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-### ⚡ Other Tools & Frameworks
-#### 🛡️ Penetration Testing
-![Burp Suite](https://img.shields.io/badge/-BurpSuite-FF5722?style=flat&logo=burpsuite&logoColor=white)
-![Yakit](https://img.shields.io/badge/-Yakit-4CAF50?style=flat)
-![Acunetix](https://img.shields.io/badge/-Acunetix-2196F3?style=flat)
-![Nmap](https://img.shields.io/badge/-Nmap-CC0000?style=flat&logo=nmap&logoColor=white)
-![SQLMap](https://img.shields.io/badge/-SQLMap-6C3483?style=flat)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1BA1E2?style=flat&logo=wireshark&logoColor=white)
-
-#### 🤖 Deep Learning & AI
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-000000?style=flat)
-
-#### 🕸 Web Scraping & Automation
-![Scrapy](https://img.shields.io/badge/-Scrapy-1E90FF?style=flat&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FF69B4?style=flat)
-
-#### 🐍 Python Backend Development
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -209,7 +163,52 @@ I actively contribute to open-source projects, focusing on **AI automation, clou
 ---
 
 ## 🔗 Connect with Me
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-HQ%20X-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-handle)   -->
-[![Email](https://img.shields.io/badge/Email-contact-orange?style=flat&logo=gmail)](mailto:bytewyrm@163.com) **Email: bytewyrm@163.com**
-[![BiliBili](https://img.shields.io/badge/BiliBili-BiliBili-blue?style=flat&logo=BiliBili)](https://space.bilibili.com/3537114050332802) **BiliBili: 鹤-菡ZQ/3537114050332802**
+- **Blog: blog.devnest.top**
+- **Email: bytewyrm@163.com**
+- **BiliBili: 鹤-菡ZQ/3537114050332802**
+
+---
+
+## 🛠 Skills & Tools
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🖥 Operating Systems
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)
+![OpenCloudOS](https://img.shields.io/badge/-OpenCloudOS-00AEEF?style=flat&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+### ⚡ Other Tools & Frameworks
+#### 🛡️ Penetration Testing
+![Burp Suite](https://img.shields.io/badge/-BurpSuite-FF5722?style=flat&logo=burpsuite&logoColor=white)
+![Yakit](https://img.shields.io/badge/-Yakit-4CAF50?style=flat)
+![Acunetix](https://img.shields.io/badge/-Acunetix-2196F3?style=flat)
+![Nmap](https://img.shields.io/badge/-Nmap-CC0000?style=flat&logo=nmap&logoColor=white)
+![SQLMap](https://img.shields.io/badge/-SQLMap-6C3483?style=flat)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1BA1E2?style=flat&logo=wireshark&logoColor=white)
+
+#### 🤖 Deep Learning & AI
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-000000?style=flat)
+
+#### 🕸 Web Scraping & Automation
+![Scrapy](https://img.shields.io/badge/-Scrapy-1E90FF?style=flat&logo=scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FF69B4?style=flat)
+
+#### 🐍 Python Backend Development
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
