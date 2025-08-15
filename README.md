@@ -29,18 +29,14 @@ I enjoy building projects that combine **innovation with practicality**.
   <!-- 上排：GitHub Stats + Top Languages -->
   <div style="display:flex; justify-content:center; gap:1%; margin-bottom:15px;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
-      width="400px" 
-      height="200px" 
+      src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=percentile&text_bold=true&line_height=28" 
       alt="GitHub Stats" 
       style="border-radius:20px; object-fit:cover;" 
       onmouseover="this.style.transform='scale(1.05)';" 
       onmouseout="this.style.transform='scale(1)';"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical" 
-      width="400px" 
-      height="200px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical&card_width=350&size_weight=0.5&count_weight=0.5&langs_count=10" 
       alt="Top Languages" 
       style="border-radius:20px; object-fit:cover;" 
       onmouseover="this.style.transform='scale(1.05)';" 
