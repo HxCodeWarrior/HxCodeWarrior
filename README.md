@@ -5,6 +5,11 @@
   <img src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/header-animated.gif" width="100%" />
 </p>
 
+<!-- 来访者统计 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HxCodeWarrior&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ## 🚀 About Me
 I'm a passionate developer and security enthusiast focused on **network security, AI security, OS, ML, DL, NLP, and LLMs**.  
 I enjoy building projects that combine **innovation with practicality**.  
@@ -40,18 +45,52 @@ I enjoy building projects that combine **innovation with practicality**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical" />
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+
+  <p align="center">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=20" 
+    width="49%" 
+    height="200px" 
+    alt="GitHub Stats" 
+    style="vertical-align:top;" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical&border_radius=20&card_width=450" 
+    width="49%" 
+    height="200px" 
+    alt="Top Languages" 
+    style="vertical-align:top;" 
+  />
+  </p>
+
+  <p>
+    <!-- 下排：Streak + 动态贡献蛇 -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HxCodeWarrior&theme=radical&hide_border=false&border_radius=20" width="48%" alt="GitHub Streak" style="margin-right:1%;" />
+    <img src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.svg" width="48%" alt="GitHub Contribution Snake" />
+  </p>
+
+  <!-- 彩色 Badge -->
+  <p>
+    <img src="https://img.shields.io/github/repos/HxCodeWarrior?style=for-the-badge&logo=github&color=2b2b2b&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/HxCodeWarrior?style=for-the-badge&logo=github&color=1abc9c&logoColor=white" />
+    <img src="https://img.shields.io/github/stars/HxCodeWarrior?style=for-the-badge&logo=github&color=f39c12&logoColor=white" />
+    <img src="https://img.shields.io/github/commit-activity/t/HxCodeWarrior/HxCodeWarrior?style=for-the-badge&logo=github&color=e74c3c&logoColor=white" />
 </p>
 
-### 🏆 GitHub Responsibilities
-| Type | Count |
-|------|-------|
-| Repositories | ![Repo Count](https://img.shields.io/github/repos/HxCodeWarrior?style=flat&logo=github) |
-| Followers | ![Followers](https://img.shields.io/github/followers/HxCodeWarrior?style=flat&logo=github) |
-| Stars | ![Stars](https://img.shields.io/github/stars/HxCodeWarrior?style=flat&logo=github) |
-| Contributions (Last Year) | ![Contributions](https://img.shields.io/github/commit-activity/y/HxCodeWarrior?style=flat&logo=github) |
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=HxCodeWarrior&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
 
 ---
 
@@ -67,25 +106,21 @@ I enjoy building projects that combine **innovation with practicality**.
 <tr>
   <td>🤖 StellarByte LLM</td>
   <td>Lightweight LLM framework for research & experimentation</td>
-  <td><img src="https://raw.githubusercontent.com/HxCodeWarrior/StellarByte/main/assets/StellarrByte.png" width="120"/></td>
   <td><a href="https://github.com/HxCodeWarrior/StellarByte">Repo</a></td>
 </tr>
 <tr>
   <td>📝 ByteBlog</td>
   <td>Personal blogging platform</td>
-  <td><img src="https://raw.githubusercontent.com/HxCodeWarrior/ByteBlog/main/assets/ByteWyrmBlog.png" width="120"/></td>
   <td><a href="https://github.com/HxCodeWarrior/ByteBlog">Repo</a></td>
 </tr>
 <tr>
   <td>🌐 Blog Friends</td>
   <td>Tools & plugins for blogging community</td>
-  <td><img src="https://raw.githubusercontent.com/HxCodeWarrior/Blog_Friends/main/assets/BlogFriends.png" width="120"/></td>
   <td><a href="https://github.com/HxCodeWarrior/Blog_Friends">Repo</a></td>
 </tr>
 <tr>
   <td>🎓 CCSP BootCamp</td>
   <td>Security training & exercises</td>
-  <td><img src="https://raw.githubusercontent.com/HxCodeWarrior/CCSP_BootCamp/main/assets/CCSP_BootCamp.png" width="120"/></td>
   <td><a href="https://github.com/HxCodeWarrior/CCSP_BootCamp">Repo</a></td>
 </tr>
 </table>
