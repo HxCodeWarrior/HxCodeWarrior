@@ -8,30 +8,32 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:   # 手动触发
 
+permissions:
+  contents: write
+
 jobs:
   update-snake:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+      
+      - name: Ensure assets dir
+        run: mkdir -p assets
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          node-version: '18'
-
-      - name: Install dependencies
-        run: |
-          npm install -g github-contribution-grid-snake
-
-      - name: Generate Snake SVG
-        run: |
-          github-contribution-grid-snake -u HxCodeWarrior -o assets/github-contribution-grid-snake.svg --theme github-dark
+          github_user_name: HxCodeWarrior
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake.gif
 
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add assets/github-contribution-grid-snake.svg
-          git commit -m "Update Snake contribution graph" || echo "No changes to commit"
+          git config --local user.email "GitHub Actions[bot]"
+          git config --local user.name "GitHub Actions[bot]"
+          git add assets/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.gif
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "Update Snake contribution graph"
           git push
