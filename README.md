@@ -45,50 +45,59 @@ I enjoy building projects that combine **innovation with practicality**.
 
 ## 📊 GitHub Stats
 
-<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s ease;">
 
-  <div style="display:flex; justify-content:center; gap:1%;">
-    <!-- GitHub Stats -->
+  <!-- 上排：GitHub Stats + Top Languages -->
+  <div style="display:flex; justify-content:center; gap:1%; margin-bottom:15px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=20" 
       width="49%" 
       height="200px" 
       alt="GitHub Stats" 
-      style="vertical-align:top;" 
+      style="vertical-align:top; border-radius:20px; transition: transform 0.3s ease;" 
+      onmouseover="this.style.transform='scale(1.05)';" 
+      onmouseout="this.style.transform='scale(1)';"
     />
-    <!-- Top Languages -->
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical&border_radius=20&card_width=450" 
       width="49%" 
       height="200px" 
       alt="Top Languages" 
-      style="vertical-align:top;" 
+      style="vertical-align:top; border-radius:20px; transition: transform 0.3s ease;" 
+      onmouseover="this.style.transform='scale(1.05)';" 
+      onmouseout="this.style.transform='scale(1)';"
     />
   </div>
 
-  <div style="display:flex; justify-content:center; gap:1%; margin-top:15px;">
-    <!-- Streak -->
+  <!-- 下排：Streak + 动态贡献蛇 -->
+  <div style="display:flex; flex-direction:column; align-items:center; gap:15px; margin-bottom:20px;">
     <img 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=HxCodeWarrior&theme=radical&hide_border=false&border_radius=20" 
-     width="48%" 
-     alt="GitHub Streak" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=HxCodeWarrior&theme=radical&hide_border=false&border_radius=20" 
+      width="80%" 
+      alt="GitHub Streak" 
+      style="border-radius:20px; transition: transform 0.3s ease; max-width:600px; height:auto;" 
+      onmouseover="this.style.transform='scale(1.05)';" 
+      onmouseout="this.style.transform='scale(1)';"
     />
-    <!-- 动态贡献蛇 -->
     <img 
-     src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.gif" 
-     width="48%" 
-     alt="GitHub Contribution Snake" 
+      src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.gif" 
+      width="80%" 
+      alt="GitHub Contribution Snake" 
+      style="border-radius:20px; transition: transform 0.3s ease; max-width:600px; height:auto;" 
+      onmouseover="this.style.transform='scale(1.05)';" 
+      onmouseout="this.style.transform='scale(1)';"
     />
-  </p>
+  </div>
 
   <!-- 彩色 Badge -->
-  <p>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
     <img src="https://img.shields.io/github/followers/HxCodeWarrior?style=for-the-badge&logo=github&color=1abc9c&logoColor=white" />
     <img src="https://img.shields.io/github/stars/HxCodeWarrior?style=for-the-badge&logo=github&color=f39c12&logoColor=white" />
     <img src="https://img.shields.io/github/commit-activity/t/HxCodeWarrior/HxCodeWarrior?style=for-the-badge&logo=github&color=e74c3c&logoColor=white" />
- </p>
+  </div>
 
 </div>
+
 
 ---
 
