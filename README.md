@@ -105,7 +105,6 @@ I enjoy building projects that combine **innovation with practicality**.
 <tr>
   <th>Project</th>
   <th>Description</th>
-  <th>Preview</th>
   <th>Link</th>
 </tr>
 <tr>
