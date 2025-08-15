@@ -75,7 +75,6 @@ I enjoy building projects that combine **innovation with practicality**.
 
   <!-- 彩色 Badge -->
   <p>
-    <img src="https://img.shields.io/github/repos/HxCodeWarrior?style=for-the-badge&logo=github&color=2b2b2b&logoColor=white" />
     <img src="https://img.shields.io/github/followers/HxCodeWarrior?style=for-the-badge&logo=github&color=1abc9c&logoColor=white" />
     <img src="https://img.shields.io/github/stars/HxCodeWarrior?style=for-the-badge&logo=github&color=f39c12&logoColor=white" />
     <img src="https://img.shields.io/github/commit-activity/t/HxCodeWarrior/HxCodeWarrior?style=for-the-badge&logo=github&color=e74c3c&logoColor=white" />
@@ -88,9 +87,8 @@ I enjoy building projects that combine **innovation with practicality**.
 
 ## 📈 GitHub Activity Graph
 
-<p align="center">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=HxCodeWarrior&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HxCodeWarrior&theme=github-dark&area=true&hide_border=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
@@ -138,5 +136,5 @@ I enjoy building projects that combine **innovation with practicality**.
 ## ✨ Fun Dynamic Element
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" width="90%" />
 </p>
