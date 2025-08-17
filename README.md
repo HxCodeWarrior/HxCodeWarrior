@@ -135,6 +135,11 @@ I enjoy building projects that combine **innovation with practicality**.
   <td><a href="https://github.com/HxCodeWarrior/ByteBlog">Repo</a></td>
 </tr>
 <tr>
+  <td>🦎Data_Spider_Analysis</td>
+  <td>Data mining tool & machine learning model & analysis</td>
+  <td><a href="https://github.com/HxCodeWarrior/Data_Spider_Analysis">Repo</a></td>
+</tr>
+<tr>
   <td>🌐 Blog Friends</td>
   <td>Tools & plugins for blogging community</td>
   <td><a href="https://github.com/HxCodeWarrior/Blog_Friends">Repo</a></td>
