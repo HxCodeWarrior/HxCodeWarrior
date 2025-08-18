@@ -164,7 +164,7 @@ I actively contribute to open-source projects, focusing on **AI automation, clou
 ---
 
 ## 🔗 Connect with Me
-- **Blog: blog.devnest.top**
+- **Blog: https://blog.devnest.top**
 - **Email: bytewyrm@163.com**
 - **BiliBili: 鹤-菡ZQ/3537114050332802**
 
