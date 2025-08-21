@@ -97,7 +97,7 @@ I enjoy building projects that combine **innovation with practicality**.
 - **2024-11-18** — "Outstanding Student Scholarship", Qinghai University  
 - **2024-11-18** — "Single Item Scholarship (Scientific Research & Innovation Award)", Qinghai University  
 - **2025-05-06** — 3rd Prize, Provincial Level, "Datang Cup" National College Student Next-Generation Information and Communication Technology Competition  
-- **2025** — 3rd Prize, National Level, 22nd Information Security and Countermeasure Technology Competition "Infinite Arena"  
+- **2025-07-01** — 3rd Prize, National Level, 22nd Information Security and Countermeasure Technology Competition "Infinite Arena"  
 - **2025-07-01** — 3rd Prize, National Level, 22nd Information Security and Countermeasure Technology Competition "Breaking the Flag Challenge"  
 
 ---
