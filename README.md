@@ -1,13 +1,13 @@
-# 👋 Hi, I'm ByteWyrm!
+# 👋 Hi, I'm HsuantTong!
 
 <!-- 动态 Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/header-animated.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hsuant/Hsuant/main/assets/header-animated.gif" width="100%" />
 </p>
 
 <!-- 来访者统计 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HxCodeWarrior&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hsuant&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
@@ -29,14 +29,14 @@ I enjoy building projects that combine **innovation with practicality**.
   <!-- 上排：GitHub Stats + Top Languages -->
   <div style="display:flex; justify-content:center; gap:1%; margin-bottom:15px;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=HxCodeWarrior&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=percentile&text_bold=true&line_height=28" 
+      src="https://github-readme-stats.vercel.app/api?username=Hsuant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=percentile&text_bold=true&line_height=28" 
       alt="GitHub Stats" 
       style="border-radius:20px; object-fit:cover;" 
       onmouseover="this.style.transform='scale(1.05)';" 
       onmouseout="this.style.transform='scale(1)';"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HxCodeWarrior&layout=compact&theme=radical&card_width=350&size_weight=0.5&count_weight=0.5&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsuant&layout=compact&theme=radical&card_width=350&size_weight=0.5&count_weight=0.5&langs_count=10" 
       alt="Top Languages" 
       style="border-radius:20px; object-fit:cover;" 
       onmouseover="this.style.transform='scale(1.05)';" 
@@ -47,7 +47,7 @@ I enjoy building projects that combine **innovation with practicality**.
   <!-- 下排：Streak + 动态贡献蛇 -->
   <div style="display:flex; flex-direction:column; align-items:center; gap:15px; margin-bottom:20px;">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=HxCodeWarrior&theme=radical&hide_border=false&border_radius=20" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Hsuant&theme=radical&hide_border=false&border_radius=20" 
       width="80%" 
       alt="GitHub Streak" 
       style="border-radius:20px; transition: transform 0.3s ease; max-width:600px; height:auto;" 
@@ -55,7 +55,7 @@ I enjoy building projects that combine **innovation with practicality**.
       onmouseout="this.style.transform='scale(1)';"
     />
     <img 
-      src="https://raw.githubusercontent.com/HxCodeWarrior/HxCodeWarrior/main/assets/github-contribution-grid-snake.gif" 
+      src="https://raw.githubusercontent.com/Hsuant/Hsuant/main/assets/github-contribution-grid-snake.gif" 
       width="80%" 
       alt="GitHub Contribution Snake" 
       style="border-radius:20px; transition: transform 0.3s ease; max-width:600px; height:auto;" 
@@ -66,9 +66,9 @@ I enjoy building projects that combine **innovation with practicality**.
 
   <!-- 彩色 Badge -->
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
-    <img src="https://img.shields.io/github/followers/HxCodeWarrior?style=for-the-badge&logo=github&color=1abc9c&logoColor=white" />
-    <img src="https://img.shields.io/github/stars/HxCodeWarrior?style=for-the-badge&logo=github&color=f39c12&logoColor=white" />
-    <img src="https://img.shields.io/github/commit-activity/t/HxCodeWarrior/HxCodeWarrior?style=for-the-badge&logo=github&color=e74c3c&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/Hsuant?style=for-the-badge&logo=github&color=1abc9c&logoColor=white" />
+    <img src="https://img.shields.io/github/stars/Hsuant?style=for-the-badge&logo=github&color=f39c12&logoColor=white" />
+    <img src="https://img.shields.io/github/commit-activity/t/Hsuant/Hsuant?style=for-the-badge&logo=github&color=e74c3c&logoColor=white" />
   </div>
 
 </div>
@@ -77,7 +77,7 @@ I enjoy building projects that combine **innovation with practicality**.
 
 ## 📈 GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HxCodeWarrior&theme=github-dark&area=true&hide_border=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hsuant&theme=github-dark&area=true&hide_border=false)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -127,27 +127,27 @@ I enjoy building projects that combine **innovation with practicality**.
 <tr>
   <td>🤖 StellarByte LLM</td>
   <td>Lightweight LLM framework for research & experimentation</td>
-  <td><a href="https://github.com/HxCodeWarrior/StellarByte">Repo</a></td>
+  <td><a href="https://github.com/Hsuant/StellarByte">Repo</a></td>
 </tr>
 <tr>
   <td>📝 ByteBlog</td>
   <td>Personal blogging platform</td>
-  <td><a href="https://github.com/HxCodeWarrior/ByteBlog">Repo</a></td>
+  <td><a href="https://github.com/Hsuant/ByteBlog">Repo</a></td>
 </tr>
 <tr>
   <td>🦎Data_Spider_Analysis</td>
   <td>Data mining tool & machine learning model & analysis</td>
-  <td><a href="https://github.com/HxCodeWarrior/Data_Spider_Analysis">Repo</a></td>
+  <td><a href="https://github.com/Hsuant/Data_Spider_Analysis">Repo</a></td>
 </tr>
 <tr>
   <td>🌐 Blog Friends</td>
   <td>Tools & plugins for blogging community</td>
-  <td><a href="https://github.com/HxCodeWarrior/Blog_Friends">Repo</a></td>
+  <td><a href="https://github.com/Hsuant/Blog_Friends">Repo</a></td>
 </tr>
 <tr>
   <td>🎓 CCSP BootCamp</td>
   <td>Security training & exercises</td>
-  <td><a href="https://github.com/HxCodeWarrior/CCSP_BootCamp">Repo</a></td>
+  <td><a href="https://github.com/Hsuant/CCSP_BootCamp">Repo</a></td>
 </tr>
 </table>
 
