@@ -5,9 +5,19 @@
   <img src="https://raw.githubusercontent.com/Hsuant/Hsuant/main/assets/header-animated.gif" width="100%" />
 </p>
 
-<!-- 来访者统计 -->
 <p align="center">
+  <!-- 原有访问计数器 -->
   <img src="https://komarev.com/ghpvc/?username=Hsuant&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- 个人网站徽章 -->
+  <a href="https://blog.devnest.top/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-DevNest-ff69b4?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+  </a>
+  
+  <!-- 邮箱徽章（点击可复制或发邮件） -->
+  <a href="mailto:hsuantx@163.com">
+    <img src="https://img.shields.io/badge/Mail-hsuantx@163.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ## 🚀 About Me
@@ -26,28 +36,26 @@ I enjoy building projects that combine **innovation with practicality**.
 
 <div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); border-radius: 25px; padding: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.3); transition: all 0.3s ease;">
 
-  <!-- 上排：GitHub Stats + Top Languages -->
-  <div style="display:flex; justify-content:center; gap:1%; margin-bottom:15px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Hsuant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=percentile&text_bold=true&line_height=28" 
-      alt="GitHub Stats" 
-      style="border-radius:20px; object-fit:cover;" 
-      onmouseover="this.style.transform='scale(1.05)';" 
-      onmouseout="this.style.transform='scale(1)';"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsuant&layout=compact&theme=radical&card_width=350&size_weight=0.5&count_weight=0.5&langs_count=10" 
-      alt="Top Languages" 
-      style="border-radius:20px; object-fit:cover;" 
-      onmouseover="this.style.transform='scale(1.05)';" 
-      onmouseout="this.style.transform='scale(1)';"
-    />
+  <!-- 上排：GitHub Dashboard -->
+  <div style="display:flex; justify-content:center; margin-bottom:15px;">
+    <div style="transition: transform 0.3s ease; border-radius: 20px; overflow: hidden; display: inline-block; max-width: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"
+         onmouseover="this.style.transform='scale(1.05)';"
+         onmouseout="this.style.transform='scale(1)';">
+      <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=79069658" target="_blank" style="display: block;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79069658&image_size=auto&color_scheme=dark">
+          <img alt="Dashboard stats of @Hsuant" 
+               src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79069658&image_size=auto&color_scheme=light" 
+               style="display: block; width: 100%; height: auto; border-radius: 20px;">
+        </picture>
+      </a>
+    </div>
   </div>
 
   <!-- 下排：Streak + 动态贡献蛇 -->
   <div style="display:flex; flex-direction:column; align-items:center; gap:15px; margin-bottom:20px;">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Hsuant&theme=radical&hide_border=false&border_radius=20" 
+      src="https://gitstrength.netlify.app/api/card?username=Hsuant" 
       width="80%" 
       alt="GitHub Streak" 
       style="border-radius:20px; transition: transform 0.3s ease; max-width:600px; height:auto;" 
@@ -135,19 +143,14 @@ I enjoy building projects that combine **innovation with practicality**.
   <td><a href="https://github.com/Hsuant/ByteBlog">Repo</a></td>
 </tr>
 <tr>
-  <td>🦎Data_Spider_Analysis</td>
+  <td>🦎LifeLens</td>
   <td>Data mining tool & machine learning model & analysis</td>
-  <td><a href="https://github.com/Hsuant/Data_Spider_Analysis">Repo</a></td>
+  <td><a href="https://github.com/Hsuant/LifeLens">Repo</a></td>
 </tr>
 <tr>
   <td>🌐 Blog Friends</td>
   <td>Tools & plugins for blogging community</td>
   <td><a href="https://github.com/Hsuant/Blog_Friends">Repo</a></td>
-</tr>
-<tr>
-  <td>🎓 CCSP BootCamp</td>
-  <td>Security training & exercises</td>
-  <td><a href="https://github.com/Hsuant/CCSP_BootCamp">Repo</a></td>
 </tr>
 </table>
 
